@@ -1,0 +1,13 @@
+{
+    "name": "asrafulhaq/belayat",
+    "description": "This is test project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asrafulhaq\\Belayat\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
